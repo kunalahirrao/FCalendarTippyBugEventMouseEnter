@@ -1,2 +1,0 @@
-# FCalendarTippyBugEventMouseEnter
-Created with CodeSandbox
